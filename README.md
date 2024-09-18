@@ -16,28 +16,28 @@ clic en crear repositorio.
 Finalmente, solo queda implementar el repositorio en el proyecto que sea necesario.
 
 # 3.- Nombre 10 comandos de Git, además, explicando para que sirven.
-**git init:** Este comando se utiliza para inicializar un nuevo repositorio Git en el directorio actual.
+```git init``` :Este comando se utiliza para inicializar un nuevo repositorio Git en el directorio actual.
 
-**git clone <url>:** Este comando se utiliza para copiar un repositorio Git existente desde una URL.
+```git clone <url>``` :Este comando se utiliza para copiar un repositorio Git existente desde una URL.
 
-**git add <archivo>:** Este comando agrega un archivo al área de preparación para el próximo
+```git add <archivo>``` :Este comando agrega un archivo al área de preparación para el próximo
 commit.
 
-**git commit -m "<mensaje>":** Este comando guarda los cambios en el repositorio con un mensaje
+```git commit -m "<mensaje>"``` :Este comando guarda los cambios en el repositorio con un mensaje
 descriptivo.
 
-**git status:** Este comando muestra el estado del repositorio Git actual, como los cambios que
+```git status``` :Este comando muestra el estado del repositorio Git actual, como los cambios que
 están en el área de preparación, pero aún no se han confirmado.
 
-**git pull:** Este comando actualiza el repositorio local con los cambios del repositorio remoto.
+```git pull``` :Este comando actualiza el repositorio local con los cambios del repositorio remoto.
 
-**git push <remoto> <rama>:** Este comando envía los cambios confirmados al repositorio remoto.
+```git push <remoto> <rama>``` :Este comando envía los cambios confirmados al repositorio remoto.
 
-**git branch <nombre_de_rama>:** Este comando crea una nueva rama en el repositorio Git.
+```git branch <nombre_de_rama>``` :Este comando crea una nueva rama en el repositorio Git.
 
-**git checkout <nombre_de_rama>:** Este comando cambia a la rama especificada.
+```git checkout <nombre_de_rama>``` :Este comando cambia a la rama especificada.
 
-**git merge <nombre_de_rama>:** Este comando fusiona la rama especificada con la rama actual.
+```git merge <nombre_de_rama>``` :Este comando fusiona la rama especificada con la rama actual.
 
 # 4.- Una vez completado, la pregunta 3, diríjase al siguiente enlace 
 #### https://education.github.com/git-cheat-sheet-education.pdf y comente si ya sabía de su existencia sobre las denominadas (cheatsheet), además diga si algo le llamo la atención.
